@@ -6,3 +6,5 @@
 - Use `https://rickandmortyapi.com/api/character` endpoint to get information for the characters.
 - Figure out how to access the images and names key with their values.
 - Display these values in grid.
+## The output Should like this:
+![Output](JSON-lab-output.png)
