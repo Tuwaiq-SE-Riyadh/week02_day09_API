@@ -1,0 +1,129 @@
+#parent {
+        
+    display: grid;
+    grid-template-columns: 30% 30% 30% ;
+    column-gap: 10px;
+    row-gap: 10px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    padding: 10px;
+
+
+
+}
+img{
+    text-align: center;
+    align-content: center;
+}
+
+
+
+.child{
+    background-color: white;
+    height: 200px;
+    border-radius: 3px;
+
+
+}
+
+
+.child1{
+    /* static is the default position and can not be changed by top, bottom left and right */
+    position: static;
+
+
+}
+.child2{
+    
+    position: static;
+
+
+}
+.child3{
+    
+    position: static;
+
+}
+.child4{
+
+    position: static;
+
+}
+.child5{
+    position: static;
+
+}
+.child6{
+    
+    position: static;
+
+}
+.child7{
+
+    position: static;
+
+}
+.child8{
+    position: static;
+
+}
+
+
+.child9{
+    /* static is the default position and can not be changed by top, bottom left and right */
+    position: static;
+
+
+}
+
+.child10{
+    
+    position: static;
+
+
+}
+.child11{
+    
+    position: static;
+
+
+}
+.child12{
+    
+    position: static;
+
+
+}
+.child13{
+    
+    position: static;
+
+}
+.child14{
+
+    position: static;
+
+}
+.child15{
+    position: static;
+
+}
+.child16{
+    
+    position: static;
+
+}
+.child17{
+
+    position: static;
+
+}
+.child18{
+    position: static;
+
+}
+.child19{
+    position: static;
+
+}
+
