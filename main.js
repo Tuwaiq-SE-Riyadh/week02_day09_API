@@ -16,9 +16,6 @@ fetch('https://rickandmortyapi.com/api/character')
   .then(function (json) { 
     let data =json
     console.log(data.results[0])
-    const div = document.createElement("div")
-    // document.body.append(div)
-
     const body = document.querySelector('body')
     for (let i = 0; i < data.results.length; i++) {
         const img = document.createElement("img");
